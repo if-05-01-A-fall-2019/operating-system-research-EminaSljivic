@@ -1,0 +1,5 @@
+QNX
+
+QNX is a microkernel-based operating system, which was originally developed in the early 1980s by a company called „Quantum Software Systems“ and now belongs to BlackBerry since 2010. It was one of the first commercially successful microkernel operating systems and it is mainly used in the cars and mobile phones area.
+
+A big advantage is that user are able to turn off any functionality they do not require without changing the operating system itself, this is possible because it is based on microkernel, which idea is that the operating system is running in the form of a number of small tasks, known as Resource Managers.
